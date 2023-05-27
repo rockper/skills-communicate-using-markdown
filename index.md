@@ -1,1 +1,1 @@
-# Hello, Welcome to my repository
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
