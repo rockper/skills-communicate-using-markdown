@@ -1,1 +1,9 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```python
+import os
+
+os.chdir("mydir")
+
+def my_func():
+  l = list(range(5))
+  return l
+```
